@@ -124,6 +124,10 @@ section{
     color: var(--Grayish-purple);
 }
 
+.card .card-body .group.fourth{
+    border-bottom: none;
+}
+
 @media only screen and (min-width:1000px) {
 
     .bg-img-section .bg-pattern-mobile{
