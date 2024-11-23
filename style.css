@@ -84,7 +84,7 @@ section{
 }
 
 .card .card-body .group .group-children .bg-img{
-    position: relative;
+    cursor: pointer;
 }
 
 .card .card-body .group .group-children .bg-img .img-icon-plus{
